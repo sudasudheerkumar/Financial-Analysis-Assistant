@@ -8,13 +8,6 @@
 
 Finance teams spend significant time manually reviewing financial reports, transaction summaries, and variance explanations, delaying monthly close activities. This assistant automates that first-pass analysis using Retrieval-Augmented Generation (RAG) so finance teams get accurate, document-grounded insights in seconds.
 
----
-
-## 🖥️ Demo
-
-![Financial Analysis Assistant](https://via.placeholder.com/900x500/042C53/B5D4F4?text=FinAnalyst+AI+%E2%80%94+Upload+%E2%86%92+Analyze+%E2%86%92+Insights)
-
----
 
 ## ✨ Features
 
@@ -198,43 +191,12 @@ This system uses three layers to ensure answers are grounded in your document on
 ### Executive commentary tab
 Board-ready paragraphs with risk flags and recommended management actions, downloadable as `.txt`.
 
----
-
-## 🔮 Roadmap
-
-- [ ] PostgreSQL for persistent analysis history
-- [ ] User authentication (JWT)
-- [ ] OCR support for scanned PDFs (Tesseract / AWS Textract)
-- [ ] Multi-period trend comparison
-- [ ] Export to Word / PowerPoint
-- [ ] Docker + cloud deployment (Render / Railway)
-- [ ] Evaluation framework (RAGAS) for RAG quality measurement
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes please open an issue first to discuss what you would like to change.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add your feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@your-username](https://github.com/sudasudheerkumar)
+- LinkedIn: [your-linkedin](www.linkedin.com/in/sudasudheer)
 
 ---
 
