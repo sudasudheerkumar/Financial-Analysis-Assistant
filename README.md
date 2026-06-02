@@ -163,7 +163,7 @@ Write executive commentary for the board pack
 
 ---
 
-## 🔒 Hallucination Prevention
+##  Hallucination Prevention
 
 This system uses three layers to ensure answers are grounded in your document only:
 
@@ -195,8 +195,8 @@ Board-ready paragraphs with risk flags and recommended management actions, downl
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/sudasudheerkumar)
-- LinkedIn: [your-linkedin](www.linkedin.com/in/sudasudheer)
+- GitHub:(https://github.com/sudasudheerkumar)
+- LinkedIn: (https://www.linkedin.com/in/sudasudheer/)
 
 ---
 
